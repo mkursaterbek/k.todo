@@ -1,0 +1,23 @@
+.title {
+  text-align: center;
+  justify-content: center;
+  background-color: orange;
+  height: 250px;
+  position: relative;
+}
+
+.todo {
+  padding-top: 50px;
+}
+
+#liste {
+  text-align: center;
+  background-color: green;
+  list-style: none;
+}
+
+.btnX {
+  border-radius: 9px;
+  background-color: orange;
+  margin-left: 20px;
+}
